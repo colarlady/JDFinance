@@ -8,7 +8,7 @@
 export default {
 }
 </script>
-clear
+
 <style lang="scss" module>
   @import '../../css/reset.scss';
   .home{
